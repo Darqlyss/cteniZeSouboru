@@ -1,0 +1,4 @@
+Game1,ano,3
+Game2,ne,2
+Game3,ano,1
+Game4,ne,3
